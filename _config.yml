@@ -1,0 +1,29 @@
+title: Yuwei Li
+url: "https://reyuwei.github.io/"
+baseurl: ""
+
+markdown: GFM
+# markdown: kramdown
+# kramdown:
+#   input: GFM
+
+tracking_id: UA-104484044-2
+
+footer: yes
+footer_url: "https://github.com/reyuwei"
+footer_text: "Yuwei Li"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Home"
+   link: "index"
+ - name: "CV"
+   link: "yuwei_cv_eng_202311.pdf"
+ - name: "Projects"
+   link: "proj"
+ - name: "Contact"
+   link: "#contact"
+

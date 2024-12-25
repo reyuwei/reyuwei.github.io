@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="SweepCanvas: Sketch-based 3D Prototyping on a Depth Image">
+    <meta name="author" content="Yuwei Li,
+                                Xi Luo,
+                                Youyi Zheng,
+                                Pengfei Xu,
+                                Hongbo Fu">
+
+    <title>SweepCanvas: Sketch-based 3D Prototyping on a Depth Image</title>
+    <!-- Bootstrap core CSS -->
+    <!--link href="bootstrap.min.css" rel="stylesheet"-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="offcanvas.css" rel="stylesheet">
+    <!--    <link rel="icon" href="img/favicon.gif" type="image/gif">-->
+</head>
+
+<body>
+
+
+
+<div class="jumbotron jumbotron-fluid">
+
+
+    <div class="container"></div>
+    <h2>SweepCanvas: Sketch-based 3D Prototyping on a Depth Image</h2>
+    <h4>UIST 2017</h4>
+           <p class="abstract"></p>
+    <hr>
+    <p class="authors">
+        <a href="http://liyuwei.cc"> Yuwei Li</a><sup>1</sup>,
+        <a href="https://www.luoxi.tech/">Xi Luo</a><sup>1</sup>,
+        <a href="http://www.youyizheng.net/">Youyi Zheng</a><sup>2</sup>,
+        <a href="http://pengfeixu.com/">Pengfei Xu</a><sup>3</sup>,
+        <a href="https://www.scm.cityu.edu.hk/people/fu-hongbo">Hongbo Fu</a><sup>4</sup>
+    </p>
+
+    <p class="authors">
+        <a > <sup>1</sup>School of Information Science and Technology, ShanghaiTech University<br></a>
+        <a> <sup>2</sup>State Key Lab of CAD&CG, Zhejiang University<br></a>
+        <a> <sup>3</sup>Shenzhen University<br></a>
+        <a ><sup>4</sup>City University of Hong Kong</a>
+    </p>
+
+    <!-- <div class="section logos"  style="text-align:center"> -->
+        <!-- <a href="http://www.shanghaitech.edu.cn/" target="_blank"><img src="img/shanghaitech-logo.svg" height="60"></a> -->
+    <!-- </div> -->
+        <br>
+    <div class="btn-group" role="group" aria-label="Top menu">
+        <a class="btn btn-primary" href="http://www.cad.zju.edu.cn/home/zyy/docs/sweep_canvas.pdf">Paper</a>
+        <a class="btn btn-primary" href="https://www.youtube.com/watch?v=GG-ZOSO9Nmw">Video</a>
+        <a class="btn btn-primary" href="https://www.youtube.com/watch?v=DL6duxO1-6w">Talk</a>
+    </div>
+</div>
+
+
+
+<div class="container">
+    <div class="section">
+        <div class="vcontainer">
+            <iframe class="video" src="https://www.youtube.com/embed/GG-ZOSO9Nmw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <hr>
+        <p>
+            The creation of 3D contents still remains one of the most crucial problems for the emerging applications such as 3D printing and Augmented Reality. In Augmented Reality, how to create virtual contents that seamlessly overlay with the real environment is a key problem for human-computer interaction and many subsequent applications. In this paper, we present a sketch-based interactive tool, which we term SweepCanvas, for rapid exploratory 3D modeling on top of an RGBD image. Our aim is to offer end-users a simple yet efficient way to quickly create 3D models on an image. We develop a novel sketch-based modeling interface, which takes a pair of user strokes as input and instantly generates a curved 3D surface by sweeping one stroke along the other. A key enabler of our system is an optimization procedure that extracts pairs of spatial planes from the context to position and sweep the strokes. We demonstrate the effectiveness and power of our modeling system on various RGB-D data sets and validate the use cases via a pilot study.
+</div>
+       
+    <div class="section">
+        <hr>
+                    <div class="row align-items-center">
+            <div class="col justify-content-center text-center">
+                <img src="img/sc_teaser.png" style="width:100%; margin-right:-10px; margin-top:-10px;">
+        </div> 
+        <hr>
+        <p>
+            Our SweepCanvas system allows artists to quickly create 3D prototype models using a sketch-based interface on top of an RGB-D image as             context. The left and right examples were created within 30 and 60 minutes, respectively, by a user with a short training period. Left and middle right
+            are the original images overlaid with 3D models.</p>
+        </p>
+    </div>
+    </div>
+
+    <div class="section">
+        <h2>Bibtex</h2>
+        <hr>
+        <div class="row align-items-center"></div>
+        <div class="col justify-content-center text-center">
+        <div class="bibtexsection">
+    @article {uist17_sweep_canvas,
+        author = {Yuwei Li and Xi Luo and Youyi Zheng and Pengfei Xu and Hongbo Fu},
+        title = {SweepCanvas: Sketch-based 3D Prototyping on a Depth Image},
+        journal = {The ACM Symposium on User Interface Software and Technology (UIST)},
+        pages = {387-399},
+        year = {2017}
+    }
+        </div>
+    </div>
+    </div>
+
+    <hr>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.sass-cache/
+.DS_Store
+.jekyll-cache/
+proj/template.html
+proj/t2.html
+Gemfile
+Gemfile.lock
+.jekyll-metadata
