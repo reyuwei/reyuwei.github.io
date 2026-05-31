@@ -8,10 +8,10 @@ layout: default
 
 ### Yuwei Li (李玉玮)
 
-I obtained my Ph.D. degree from ShanghaiTech University, Shanghai, advised by [Jingyi Yu](https://scholar.google.com/citations?hl=en&user=R9L_AfQAAAAJ) at [VDI](https://vic.shanghaitech.edu.cn). My research focuses on parametric hand modeling and high-quality human reconstruction. Prior to my doctoral studies, I spent two years conducting interactive graphics research with [Youyi Zheng](https://scholar.google.com/citations?hl=zh-CN&user=Nc5xuioAAAAJ). I obtained my BE in Computer Science from Shanghai University, China.
+Yuwei Li currently resides in the ever sunny [Bay Area](https://reyli.myportfolio.com/), where she works as a Graphics Researcher at HoYoVerse, focusing on 3D animation and video generation to empower next-generation AI-native games. Prior to relocating, she spent a year as a full-time researcher at miHoYo in Shanghai, where she collaborated with the mocap team to develop hand-tracking algorithms. 
 
-My research interests include computer vision and computer graphics, in particular, Motion Capture, Skeleton Animation, Body/Hand Tracking, and Reconstruction. 
-For more details about my academic and research background, please see my [CV](yuwei_cv_eng_202311.pdf).
+Yuwei obtained her Ph.D. degree from ShanghaiTech University, Shanghai, advised by [Jingyi Yu](https://scholar.google.com/citations?hl=en&user=R9L_AfQAAAAJ) at [VDI](https://vic.shanghaitech.edu.cn), where her research focused on parametric hand modeling and high-quality human reconstruction. Before her doctoral studies, she spent two years conducting interactive graphics research with [Youyi Zheng](https://scholar.google.com/citations?zh-CN&user=Nc5xuioAAAAJ). She obtained her BE in Computer Science from Shanghai University, China.
+
 
 ## Contact
 
@@ -124,6 +124,18 @@ For more details about my academic and research background, please see my [CV](y
 
 ## Experience
 <table>
+      <tr>
+        <td width="20%" height="100%">
+        <img src="https://fastcdn.hoyoverse.com/static-resource-v2/2023/08/14/921ca4b846550847dc12d6d947ab4d6c_632840402871515063.png"></a>
+        </td>
+        <td width="80%">
+            <table>
+              <p> 
+              <strong><em>Graphics Researcher @ HoYoverse 2024.10-now</em></strong> </br>
+              Researching 3D animation and video generation to empower next-generation AI-native games.</p>
+            </table>
+        </td>
+    </tr>
    <tr>
         <td width="20%" height="100%">
         <img src="images/mihoyo.png"></a>
@@ -132,7 +144,7 @@ For more details about my academic and research background, please see my [CV](y
             <table>
               <p> 
               <strong><em>Graphics Researcher @ miHoYo 2023.7-2024.10</em></strong> </br>
-              I was a full-time researcher at miHoYo in Shanghai, collaborating with the mocap team to develop a novel hand motion capture device.  </p>
+              I was a full-time researcher at miHoYo in Shanghai, collaborating with the mocap team to develop high accuracy finger tracking algorithm for a novel hand mocap device.  </p>
             </table>
         </td>
     </tr>
