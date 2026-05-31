@@ -15,7 +15,7 @@ For more details about my academic and research background, please see my [CV](y
 
 ## Contact
 
-[Email](yuweirey@#$@#$Gmail) | [Github](https://github.com/reyuwei) | [LinkedIn](https://www.linkedin.com/in/yuwei17)  | [Scholar](https://scholar.google.com/citations?user=VennPcAAAAAJ&hl=en&oi=ao)
+[Email](yuweirey@gmail.com) | [Github](https://github.com/reyuwei) | [LinkedIn](https://www.linkedin.com/in/yuwei17)  | [Scholar](https://scholar.google.com/citations?user=VennPcAAAAAJ&hl=en&oi=ao)
 
 ---
 
