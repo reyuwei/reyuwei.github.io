@@ -8,7 +8,7 @@ layout: default
 
 ### Yuwei Li (李玉玮)
 
-Yuwei Li currently resides in the ever sunny [Bay Area](https://reyli.myportfolio.com/), where she works as a Graphics Researcher at HoYoVerse, focusing on 3D animation and video generation to empower next-generation AI-native games. Prior to relocating, she spent a year as a full-time researcher at miHoYo in Shanghai, where she collaborated with the mocap team to develop hand-tracking algorithms. 
+Yuwei Li currently resides in the ever sunny [Bay Area](https://reyli.myportfolio.com/), where she works as a Graphics Researcher at HoYoverse, focusing on 3D animation and video generation to empower next-generation AI games. Prior to relocating, she spent a year at miHoYo in Shanghai, where she collaborated with the mocap team to develop high accuracy finger-tracking algorithms. 
 
 Yuwei obtained her Ph.D. degree from ShanghaiTech University, Shanghai, advised by [Jingyi Yu](https://scholar.google.com/citations?hl=en&user=R9L_AfQAAAAJ) at [VDI](https://vic.shanghaitech.edu.cn), where her research focused on parametric hand modeling and high-quality human reconstruction. Before her doctoral studies, she spent two years conducting interactive graphics research with [Youyi Zheng](https://scholar.google.com/citations?zh-CN&user=Nc5xuioAAAAJ). She obtained her BE in Computer Science from Shanghai University, China.
 
