@@ -19,6 +19,37 @@ Yuwei obtained her Ph.D. degree from ShanghaiTech University, Shanghai, advised 
 
 ---
 
+## Industry Projects
+
+<table>
+  <tr>
+    <td width="20%">
+      <img src="https://github.com/user-attachments/assets/8af9264a-30e2-4e74-ba21-e1fe7b2fc214">
+    </td>
+    <td width="80%">
+      <b>LPM 1.0 (Large Performance Model)</b>
+      <br>
+          A Diffusion Transformer for real-time, identity-consistent, and infinite-length conversational character performance. Contributed to the scalable multi-modal data pipeline and high-fidelity automated captioning workflows to scale high-quality training datasets for nuanced human-like generation.
+      <br>
+      <i>Anuttacon, 2026</i>              
+          [<a href="https://arxiv.org/pdf/2604.07823">tech report</a> | <a href="https://large-performance-model.github.io/">project</a>]</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%">
+      <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3730100/f4c10b5b4ad08b6e879bb53ffa12f5123cca760e/header.jpg?t=1764897761">
+    </td>
+    <td width="80%">
+      <b>Whispers from the Star</b>
+      <br>
+      The first AI-native story game featuring voice-controlled, open-ended real-time AI dialogue and emotionally rich humanoid animations. Contributed to the voice-driven generative facial animation system to enable immersive AI-driven storytelling.
+      <br>
+      <i>Anuttacon, 2025</i>
+                        [<a href="https://store.steampowered.com/app/3730100/Whispers_from_the_Star/">steam</a> | <a href="https://www.youtube.com/watch?v=N0HsjXQe0v0">behind the scene</a>]</p>
+    </td>
+  </tr>
+</table>
+
 ## Publications
 
 <table>
